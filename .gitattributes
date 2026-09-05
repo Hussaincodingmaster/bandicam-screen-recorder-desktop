@@ -1,0 +1,11 @@
+# Do not edit manually
+docs/*.html linguist-vendored
+src/**/*.ts linguist-detectable
+
+*.map linguist-generated
+dist/* linguist-vendored
+
+*.htm linguist-vendored
+vendor/* linguist-vendored 
+src/**/*.tsx linguist-detectable
+*.yaml linguist-detectable=false
